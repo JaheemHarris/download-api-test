@@ -1,0 +1,22 @@
+{
+  "name": "download-api-test",
+  "version": "1.0.0",
+  "description": "API to test file download",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "Download",
+    "File",
+    "API"
+  ],
+  "author": "Jaheem Harris",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
